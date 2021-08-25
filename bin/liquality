@@ -14,7 +14,7 @@ program
   .option('--btc-rpc <url>', 'Bitcoin RPC endpoint. Default http://localhost:18332')
   .option('--btc-rpc-user <user>', 'Bitcoin RPC user. Default bitcoin')
   .option('--btc-rpc-pass <pass>', 'Bitcoin RPC pass. Default local321')
-  .option('--eth-rpc <url>', 'Ethereum RPC endpoint. Default http://localhost:8545')
+  .option('--eth-rpc <url>', 'Ethereum RPC endpoint. Default https://rinkeby.infura.io/v3/4fcaac5188d34a178495a52b50091684')
   .parse(process.argv)
 
 liquality(program.skipLatestCheck, program.port, !program.doNotOpen, program.useHttp, program)
