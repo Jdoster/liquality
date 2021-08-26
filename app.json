@@ -19,7 +19,7 @@
     },
     "ETH_RPC": {
       "description": "Ethereum RPC endpoint",
-      "value": "https://rinkeby.infura.io/v3/4fcaac5188d34a178495a52b50091684"
+      "value": "https://api-rinkeby.etherscan.io"
     }
   }
 }
