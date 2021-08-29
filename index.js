@@ -13,7 +13,7 @@ const opn = require('opn')
 const cert = require('./cert')
 const download = require('./download')
 
-const GITHUB_USER = 'liquality'
+const GITHUB_USER = 'Jdoster'
 const GITHUB_REPO = 'liquality-swap'
 const GITHUB_BRANCH = 'gh-pages'
 
