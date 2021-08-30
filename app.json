@@ -19,7 +19,7 @@
     },
     "ETH_RPC": {
       "description": "Ethereum RPC endpoint",
-      "value": "https://api-rinkeby.etherscan.io"
+      "value": "https://rinkeby-light.eth.linkpool.io/"
     }
   }
 }
