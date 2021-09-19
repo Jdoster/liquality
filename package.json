@@ -8,9 +8,9 @@
     "url": "git+ssh://git@github.com/Jdoster/liquality.git"
   },
   "bugs": {
-    "url": "https://github.com/liquality/liquality/issues"
+    "url": "https://github.com/jdoster/liquality/issues"
   },
-  "homepage": "https://github.com/liquality/liquality#readme",
+  "homepage": "https://github.com/jdoster/liquality#readme",
   "author": "Liquality <info@liquality.io>",
   "keywords": [
     "liquality",
