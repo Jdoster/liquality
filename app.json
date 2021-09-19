@@ -1,7 +1,7 @@
 {
   "name": "Liquality",
   "description": "A handy tool to quickly get started with Liquality Atomic Swap",
-  "repository": "https://github.com/liquality/liquality",
+  "repository": "https://github.com/jdoster/liquality",
   "logo": "https://raw.githubusercontent.com/liquality/chainabstractionlayer/master/liquality-logo.png",
   "keywords": ["liquality", "atomic swap", "swap", "ethereum", "bitcoin", "cryptocurrency"],
   "env": {
